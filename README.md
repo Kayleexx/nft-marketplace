@@ -1,6 +1,6 @@
-# NFT Marketplace Project
+# NFT Marketplace 
 
-Welcome to the NFT Marketplace project! This project combines React, Solidity, and CSS to create a decentralized marketplace for NFTs (Non-Fungible Tokens).
+Welcome to the NFT Marketplace! This project combines React, Solidity, and CSS to create a decentralized marketplace for NFTs (Non-Fungible Tokens).
 
 ## Introduction
 
