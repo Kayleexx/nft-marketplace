@@ -52,6 +52,7 @@ contract Collection is ERC721URIStorage, Ownable {
         return newItemId;
     }
 
+
     function withdrawMoney() external onlyOwner{
         address payable to = payable(msg.sender);
         to.transfer(address(this).balance);
